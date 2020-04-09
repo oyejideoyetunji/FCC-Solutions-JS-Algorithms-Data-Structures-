@@ -1,0 +1,1 @@
+## My solutions to the FreeCodeCamp JavaScript Algorithms and Data Structures Projects.
