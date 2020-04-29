@@ -17,4 +17,5 @@ const solution = (area) =>{
   return squareArray;
 }
 
+console.log(solution(12));
 console.log(solution(15324));
