@@ -1,1 +1,1 @@
-## Here are solutions to some javaScript algorithms.
+## Here are solutions to some algorithm propblems.
